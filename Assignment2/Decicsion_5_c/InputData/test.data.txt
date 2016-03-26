@@ -1,0 +1,2 @@
+sepalLenght,sepalWidth,petalLength,petalWidth,class
+5.4,3.9,1.7,0.4,Iris-setosa
